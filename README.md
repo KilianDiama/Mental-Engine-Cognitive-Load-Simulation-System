@@ -1,3 +1,5 @@
+⚡ Engineered by Kiliandiama | The Diama Protocol [10/10] | All rights reserved.
+
 🧠 Mental Engine — Cognitive Load Simulation System
 
 A modular and extensible Python engine that simulates human cognitive state evolution under workload and recovery cycles.
